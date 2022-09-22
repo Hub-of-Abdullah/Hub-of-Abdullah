@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi 👋, I'm Chanu Abdullah, a passionate Competitive Programmer from Bangladesh
 
-<!--
-**Hub-of-Abdullah/Hub-of-Abdullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 💫 About Me :
+- 😄 Pronouns: Him/They/Them
+- 🎓 Recently Graduated with BS.c Eng in CSE
+- ⚙️ I use daily: .cpp, .js
+- 🌍 I'm mostly active within the C-pus-plus Community
+- 🌱 Learning all about Competive Programming
+- 💬 Ping me about Cpp, Competitive-Training, JavaScript, SQL
+- 🤔 I’m looking for a Job opportunity.
+- 📫 Reach me: abdullah.bd.cse@gmail.com
+- 💬 Ask me about anything
+- ⚡ Fun fact: I love reading - writing and playing cricket
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
