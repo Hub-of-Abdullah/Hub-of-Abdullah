@@ -41,7 +41,7 @@
 
 <p float="left">
 <img width="450" src="https://leetcard.jacoblin.cool/Abdullah-Hub?theme=dark&font=Karma&ext=contest" />
-<img width="450" src="https://raw.githubusercontent.com/your-github-username/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
+<img width="450" src="https://raw.githubusercontent.com/your-github-username/cf-stats/main/output/light_card.svg" />
 </p>
 
 
