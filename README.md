@@ -41,6 +41,7 @@
 
 <p float="left">
 <img width="450" src="https://leetcard.jacoblin.cool/Abdullah-Hub?theme=dark&font=Karma&ext=contest" />
+https://raw.githubusercontent.com/Hun-of-Abdullah/cf-stats/main/output/light_card.svg
 </p>
 
 
