@@ -40,8 +40,8 @@
 <b>&#128200; Competitive Programming</b>
 
 <p float="left">
-<img width="300" src="https://leetcard.jacoblin.cool/Abdullah-Hub?theme=dark&font=Karma&ext=contest" />
-<img width="300" src="https://raw.githubusercontent.com/Hub-of-Abdullah/cf-stats/main/output/light_card.svg" />
+<img height="278em" src="https://leetcard.jacoblin.cool/Abdullah-Hub?theme=dark&font=Karma&ext=contest" />
+<img height="282em" src="https://raw.githubusercontent.com/Hub-of-Abdullah/cf-stats/main/output/light_card.svg" />
 </p>
 
 
