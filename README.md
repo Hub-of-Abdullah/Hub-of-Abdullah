@@ -4,9 +4,11 @@
   <a href="https://leetcode.com/Abdullah-Hub/">
     <img src="https://cp-logo.vercel.app/leetcode/Abdullah-Hub" alt="Leet code rating" />
   </a>
- <a href="https://github.com/Log_out/cf-stats">
-    <img src="https://raw.githubusercontent.com/Log_out/cf-stats/main/output/max_rating.svg" />
-    <img src="https://raw.githubusercontent.com/Log_out/cf-stats/main/output/rating.svg" />
+  
+  
+  <a href="https://github.com/Hub-of-Abdullah/cf-stats">
+  <img src="https://raw.githubusercontent.com/Hub-of-Abdullah/cf-stats/main/output/max_rating.svg" />
+  <img src="https://raw.githubusercontent.com/Hub-of-Abdullah/cf-stats/main/output/rating.svg" />
   </a>
   <a href="https://github.com/Hub-of-Abdullah?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Hub-of-Abdullah?color=green&logo=github">
