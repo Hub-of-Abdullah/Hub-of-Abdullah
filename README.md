@@ -18,6 +18,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hub-of-Abdullah" theme="dark" alt="Hub-of-Abdullah" /></a> </p>
 
+#### Now
+
+- 🎓 Recently Graduated with **BS.c Eng in CSE**.
+- :fire: Interested in **Competitive Programming**.
+- :calendar: I'm looking for a **Job opportunity**.
 
 
 ### 💫 About Me :
@@ -31,6 +36,10 @@
 - 📫 Reach me: abdullah.bd.cse@gmail.com
 - 💬 Ask me about anything
 - ⚡ Fun fact: I love reading - writing and playing cricket
+
+#### Languages and Tools:
+
+<img height="35" src="img/cpp.svg" alt="cpp"> <img height="35" src="img/js.png" alt="js"> <img height="35" src="img/react-original.svg" alt="react"><img height="35" src="img/nj.jpeg" alt="nodejs"><img height="40" src="img/php.svg" alt="php"> <img height="35" src="img/mysql.svg" alt="sql"> <img height="35" src="img/java.svg" alt="java"> <img height="35" src="img/linux.svg" alt="linux"> <img height="35" src="img/oracle.svg" alt="oracle"> <img height="35" src="img/as.svg" alt="as"> <img height="35" src="img/py.svg" alt="py"> <img height="35" src="img/ai.svg" alt="ai">
 
 <b>⚡ Github Statistics </b>
 
