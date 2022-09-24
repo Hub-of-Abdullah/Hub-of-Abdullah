@@ -36,6 +36,7 @@
 - 📫 Reach me: abdullah.bd.cse@gmail.com
 - 💬 Ask me about anything
 - ⚡ Fun fact: I love reading - writing and playing cricket
+- 📝 Checkout my [Resume](files/resume.pdf).
 
 #### Languages and Tools:
 
