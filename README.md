@@ -26,17 +26,13 @@
 
 
 ### 💫 About Me :
-- 😄 Pronouns: Him/They/Them
-- 🎓 Recently Graduated with BS.c Eng in CSE
-- ⚙️ I use daily: .cpp, .js
-- 🌍 I'm mostly active within the **C-pus-plus Community**
+- ⚙️ I use daily: **.cpp**, **.js**, **SQL**
 - 🌱 Learning all about **Competive Programming**
 - 💬 Ping me about **Cpp**, **Competitive-Training**, **JavaScript**, **SQL**, **C#**
 - 🤔 I’m looking for a **Job opportunity**.
 - 📫 Reach me: abdullah.bd.cse@gmail.com
-- 💬 Ask me about anything
 - ⚡ Fun fact: I love reading - writing and playing cricket
-- 📝 Checkout my [Resume](files/resume.pdf).
+- 📝 Checkout my [resume](files/resume.pdf).
 
 #### Languages and Tools:
 
