@@ -34,19 +34,19 @@
 - ⚡ Fun fact: I love reading - writing and playing cricket
 - 📝 Checkout my [resume](files/resume.pdf).
 
-#### Languages and Tools:
+### 🔆 Languages and Tools:
 
 <img height="35" src="img/cpp.svg" alt="cpp"> <img height="35" src="img/js.png" alt="js"><img height="40" src="img/php.svg" alt="php"> <img height="35" src="img/mysql.svg" alt="sql"> <img height="35" src="img/java.svg" alt="java"> <img height="35" src="img/linux.svg" alt="linux"> <img height="35" src="img/py.svg" alt="py">
 
-<b>⚡ Github Statistics </b>
+### ⚡ Github Statistics:
 
 <p float="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hub-of-Abdullah&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hub-of-Abdullah&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-<b>&#128200; Competitive Programming</b>
 
+### ⚡ Competitive Programming:
 <p float="left">
 <img height="298em" src="https://leetcard.jacoblin.cool/Abdullah-Hub?theme=light&font=Karma&ext=contest" />
 <img height="308em" src="https://raw.githubusercontent.com/Hub-of-Abdullah/cf-stats/main/output/light_card.svg" />
