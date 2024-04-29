@@ -26,9 +26,9 @@
 
 
 ### 💫 About Me :
-- ⚙️ I use daily: **.cpp**, **.js**, **SQL**
-- 🌱 Learning all about **Competive Programming**
-- 💬 Ping me about **Cpp**, **Competitive-Training**, **JavaScript**, **SQL**, **C#**
+- ⚙️ I use daily: **NEXT JS**, **NODE JS**, **Tailwind**, **PHP**, **.cpp**, **.js**, **SQL**, **MONGO DB**,
+- 🌱 Learning all about **Full Stack Programmer**,**Competive Programming**
+- 💬 Ping me about **NEXT JS**, **NODE JS**, **Tailwind**, **PHP**, **.cpp**, **.js**, **SQL**, **MONGO DB**, **Competitive-Training**, **JavaScript**, **C#**
 - 🤔 I’m looking for a **Job opportunity**.
 - 📫 Reach me: abdullah.bd.cse@gmail.com
 - ⚡ Fun fact: I love reading - writing and playing cricket
