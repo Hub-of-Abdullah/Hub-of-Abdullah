@@ -1,6 +1,7 @@
-
 <div align="center">
-  ### Hi 👋, I'm Chanu Abdullah, a highly passionate Competitive Programmer from Bangladesh.
+  <h2>Hi 👋, I'm Chanu Abdullah, a highly passionate Competitive Programmer from Bangladesh.</h2>
+</div>
+<div align="center">
   <h2>Now I am working with NEXT JS, NODE JS, Tailwind, PHP, and MONGO DB.</h2>
 </div>
 
