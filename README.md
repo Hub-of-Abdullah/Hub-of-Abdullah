@@ -1,5 +1,9 @@
-### Hi 👋, I'm Chanu Abdullah, a highly passionate Competitive Programmer from Bangladesh
-### Now I am working with NEXT JS, NODE JS, Tailwind, PHP, MONGO DB.
+
+<div align="center">
+  <h3>Hi 👋, I'm Chanu Abdullah, a highly passionate Competitive Programmer from Bangladesh</h3>
+  <p>Now I am working with NEXT JS, NODE JS, Tailwind, PHP, and MONGO DB.</p>
+</div>
+
 
 <p align="left">
   <a href="https://leetcode.com/Abdullah-Hub/">
