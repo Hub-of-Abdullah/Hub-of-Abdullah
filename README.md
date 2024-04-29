@@ -1,8 +1,4 @@
 ### Hi 👋, I'm Chanu Abdullah, a highly passionate Competitive Programmer from Bangladesh.
-<div align="left">
-  <h4>Now I am working with NEXT JS, NODE JS, Tailwind, PHP, and MONGO DB.</h4>
-</div>
-
 <p align="left">
   <a href="https://leetcode.com/Abdullah-Hub/">
     <img src="https://cp-logo.vercel.app/leetcode/Abdullah-Hub" alt="Leet code rating" />
@@ -22,7 +18,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hub-of-Abdullah" theme="dark" alt="Hub-of-Abdullah" /></a> </p>
 
 #### Now
-
+-  <h4>Now I am working with NEXT JS, NODE JS, Tailwind, PHP, and MONGO DB.</h4>
 - 🎓 Recently Graduated with **BS.c Eng in CSE**.
 - :fire: Interested in **Competitive Programming**.
 - :calendar: I'm looking for a **Job opportunity**.
