@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi 👋, I'm Chanu Abdullah, a highly passionate Competitive Programmer from Bangladesh</h3>
+  <h2>Hi 👋, I'm Chanu Abdullah, a highly passionate Competitive Programmer from Bangladesh</h2>
   <h3>Now I am working with NEXT JS, NODE JS, Tailwind, PHP, and MONGO DB.</p>
 </div>
 
