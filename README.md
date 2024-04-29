@@ -23,6 +23,7 @@
 - 🎓 Recently Graduated with **BS.c Eng in CSE**.
 - :fire: Interested in **Competitive Programming**.
 - :calendar: I'm looking for a **Job opportunity**.
+-  📝 Checkout my [resume](files/resume.pdf).
 
 
 ### 💫 About Me :
