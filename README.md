@@ -3,11 +3,6 @@
   <a href="https://leetcode.com/Abdullah-Hub/">
     <img src="https://cp-logo.vercel.app/leetcode/Abdullah-Hub" alt="Leet code rating" />
   </a>
-
-<a href="https://leetcode.com/Abdullah-Hub/" target="_blank" rel="noopener noreferrer">
-  <img src="https://cp-logo.vercel.app/leetcode/Abdullah-Hub" alt="LeetCode rating" />
-</a>
-
   
   <a href="https://github.com/Hub-of-Abdullah/cf-stats">
   <img src="https://raw.githubusercontent.com/Hub-of-Abdullah/cf-stats/main/output/max_rating.svg" />
